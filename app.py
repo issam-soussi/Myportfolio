@@ -102,7 +102,7 @@ st.subheader("Work History")
 st.write("---")
 
 # --- Job 1 ---
-st.write("🚧", "**Business data analyst | Solutions Connect IT**") , 
+st.write("🚧", "**Business data analyst | Solutions Connect IT**")
 st.write("2022 - 2023")
 st.write(
     """
